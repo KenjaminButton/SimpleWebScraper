@@ -12,3 +12,14 @@
 - [x] Learn how to build a JavaScript web scraper and make it find a specific string of data on both static and dynamic pages.
 - [x] [Cheerio](https://cheerio.js.org/docs/intro) is a jQuery implementation for Node.js that makes it easier to select, edit, and view DOM elements.
 
+
+
+## Using ScraperAPI for Faster Data Scraping
+
+- ScraperAPI handles everything with a single API call.
+
+- [x] Web scraping for single Nike product completed
+- [x] Web scraping for HackerNews title and link completed
+- [] Web scraping for Amazon 
+
+https://www.youtube.com/watch?v=qo_fUjb02ns&ab_channel=BeyondFireship
