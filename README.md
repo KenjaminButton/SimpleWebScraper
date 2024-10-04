@@ -10,3 +10,5 @@
 
 
 - [x] Learn how to build a JavaScript web scraper and make it find a specific string of data on both static and dynamic pages.
+- [x] [Cheerio](https://cheerio.js.org/docs/intro) is a jQuery implementation for Node.js that makes it easier to select, edit, and view DOM elements.
+
